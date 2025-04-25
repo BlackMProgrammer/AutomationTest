@@ -80,3 +80,7 @@ npm run test
 ## Need Help?
 
 If you run into any technical issues during the assessment, do your best to unblock yourself. If you really cannot proceed or are done with the task, email megan@ranger.net.
+
+### Video Running the Automation Test
+
+https://streamyard.com/72t3xwye8d6p
