@@ -1,7 +1,7 @@
 import { Page, expect, } from '@playwright/test';
 
 /**
- * This test was generated using Ranger's test recording tool. The test is supposed to:
+ * This test was generated using a test recording tool. The test is supposed to:
  * 1. Navigate to Wikipedia
  * 2. Go to the "Artificial intelligence" page
  * 3. Click "View history"
