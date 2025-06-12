@@ -1,7 +1,7 @@
 import { Page, expect } from '@playwright/test';
 
 /**
- * This test was generated using Ranger's test recording tool. The test is supposed to:
+ * This test was generated using a test recording tool. The test is supposed to:
  * 1. Navigate to Wikipedia's homepage
  * 2. Assert there are less than 7,000,000 articles in English
  * 3. Assert the page's text gets smaller when the 'Small' text size option is selected
